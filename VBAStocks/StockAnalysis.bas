@@ -1,5 +1,5 @@
-Attribute VB_Name = "Module1"
-Sub Calculate_Stock_Stats():
+Attribute VB_Name = "Module11"
+Sub StockAnalysis():
 
 'Variable for ticker symbol
 Dim ticker As String
